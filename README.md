@@ -4,7 +4,7 @@ Template files for development process.
 ### INSTALLATION
 
 ```
-cp -R Templates/ /home/<username>/Templates 
+cp -R Templates/ /home/${USER}/Templates
 ```
 
 ### DEPENDENCIES
@@ -16,7 +16,7 @@ This tool requires these other modules and libraries:
 
 ### COPYRIGHT AND LICENCE
 
-Copyright (C) 2018 by https://vroncevic.github.io/gnome_templates
+Copyright (C) 2018 by https://vroncevic.github.io/gnome_templates/
 
 :sparkles:
 
