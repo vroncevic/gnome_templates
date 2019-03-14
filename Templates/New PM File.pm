@@ -3,7 +3,7 @@ package <package_name>;
 # @brief   <Project description>
 # @version <Version>
 # @date    <Date>
-# @company <Company name>
+# @company None, free software to use 2019
 # @author  Vladimir Roncevic <elektron.ronca@gmail.com>
 #
 
