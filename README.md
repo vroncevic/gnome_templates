@@ -19,6 +19,17 @@ other information that should be provided before the tool is installed.
 
 [![GitHub issues open](https://img.shields.io/github/issues/vroncevic/gnome_templates.svg)](https://github.com/vroncevic/gnome_templates/issues) [![GitHub contributors](https://img.shields.io/github/contributors/vroncevic/gnome_templates.svg)](https://github.com/vroncevic/gnome_templates/graphs/contributors)
 
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Installation](#installation)
+- [Dependencies](#dependencies)
+- [Docs](#docs)
+- [Copyright and licence](#copyright-and-licence)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 ### Installation
 
 Navigate to release **[page](https://github.com/vroncevic/gnome_templates/releases)** download and extract release archive.
@@ -33,6 +44,14 @@ cp -R Templates/ /home/${USER}/Templates
 This tool requires these other modules and libraries:
 
     * None
+
+### Docs
+
+[![Documentation Status](https://readthedocs.org/projects/gnome_templates/badge/?version=latest)](https://gnome_templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest)
+
+More documentation and info at:
+* [https://gnome_templates.readthedocs.io/en/latest/](https://gnome_templates.readthedocs.io/en/latest/)
+* [https://www.gnome.org](https://www.gnome.org/)
 
 ### Copyright and licence
 
