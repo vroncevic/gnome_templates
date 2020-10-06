@@ -1,3 +1,14 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Gnome templates](#gnome-templates)
+    - [Installation](#installation)
+    - [Dependencies](#dependencies)
+    - [Copyright and licence](#copyright-and-licence)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Gnome templates
 
 Template files for development process in **[GNOME](https://www.gnome.org/)**.
