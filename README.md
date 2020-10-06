@@ -5,6 +5,7 @@
 - [Gnome templates](#gnome-templates)
     - [Installation](#installation)
     - [Dependencies](#dependencies)
+    - [Docs](#docs)
     - [Copyright and licence](#copyright-and-licence)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
