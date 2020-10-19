@@ -20,5 +20,3 @@ Copyright (C) <date> by https://vroncevic.github.io/<project_name>
 
 <included_licenses_from_tools>
 
-:sparkles:
-
