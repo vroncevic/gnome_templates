@@ -23,4 +23,4 @@ RUN DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends \
 
 RUN mkdir /root/Templates/
 COPY Templates /root/Templates/
-tree /root/Templates/
+RUN tree /root/Templates/
