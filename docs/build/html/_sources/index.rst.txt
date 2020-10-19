@@ -1,7 +1,7 @@
 gnome_templates
 ----------------
 
-Template files for development process in `GNOME <https://www.gnome.org/>`_.
+**gnome_templates** are files for development processes in `GNOME <https://www.gnome.org/>`_.
 
 The README is used to introduce the tool and provide instructions on
 how to install the tool, any machine dependencies it may have and any
@@ -42,7 +42,8 @@ Dependencies
 -------------
 
 **gnome_templates** requires next modules and libraries:
-    None
+
+* None
 
 Copyright and licence
 ----------------------
@@ -61,3 +62,21 @@ Copyright (C) 2018 by `vroncevic.github.io/gnome_templates <https://vroncevic.gi
 under the same terms as Bash itself, either Bash version 4.2.47 or,
 at your option, any later version of Bash 4 you may have available.
 
+Lets help and support FSF.
+
+|Free Software Foundation|
+
+.. |Free Software Foundation| image:: https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/fsf-logo_1.png
+   :target: https://my.fsf.org/
+
+|Donate|
+
+.. |Donate| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
+   :target: https://my.fsf.org/donate/
+
+Indices and tables
+------------------
+
+* :ref:`genindex`
+* :ref:`modindex`
+* :ref:`search`
