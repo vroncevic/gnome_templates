@@ -62,17 +62,17 @@ Copyright (C) 2018 by `vroncevic.github.io/gnome_templates <https://vroncevic.gi
 under the same terms as Bash itself, either Bash version 4.2.47 or,
 at your option, any later version of Bash 4 you may have available.
 
-Lets help and support FSF.
+Lets help and support GNOME.
 
-|Free Software Foundation|
+|GNOME|
 
-.. |Free Software Foundation| image:: https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/fsf-logo_1.png
-   :target: https://my.fsf.org/
+.. |GNOME| image:: https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/GNOME.png
+   :target: https://www.gnome.org/
 
 |Donate|
 
 .. |Donate| image:: https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
-   :target: https://my.fsf.org/donate/
+   :target: https://www.gnome.org/support-gnome/donate/
 
 Indices and tables
 ------------------
