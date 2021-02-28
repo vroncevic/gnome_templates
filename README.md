@@ -1,3 +1,5 @@
+<img align="right" src="https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/gnome_templates_logo.png" width="25%">
+
 # Gnome templates
 
 **gnome_templates** are files for development processes in **[GNOME](https://www.gnome.org/)**.
@@ -52,8 +54,8 @@ Copyright (C) 2018 by [vroncevic.github.io/gnome_templates](https://vroncevic.gi
 it under the same terms as Bash itself, either Bash version 4.2.47 or,
 at your option, any later version of Bash 4 you may have available.
 
-Lets help and support FSF.
+Lets help and support GNOME.
 
-[![Free Software Foundation](https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/fsf-logo_1.png)](https://my.fsf.org/)
+[![GNOME](https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/GNOME.png)](https://www.gnome.org/)
 
-[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://my.fsf.org/donate/)
+[![Donate](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.gnome.org/support-gnome/donate/)
