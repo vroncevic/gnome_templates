@@ -23,6 +23,8 @@ other information that should be provided before the tool is installed.
 
 ### Installation
 
+![Debian Linux OS](https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/debtux.png)
+
 Navigate to release **[page](https://github.com/vroncevic/gnome_templates/releases)** download and extract release archive.
 
 To install **gnome_templates** type the following:

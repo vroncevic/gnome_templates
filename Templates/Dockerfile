@@ -1,4 +1,4 @@
-# Copyright 2020 Vladimir Roncevic <elektron.ronca@gmail.com>
+# Copyright 2022 Vladimir Roncevic <elektron.ronca@gmail.com>
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -15,8 +15,9 @@
 
 FROM debian:10
 RUN apt-get update
-RUN DEBIAN_FRONTEND=noninteractive apt-get install -yq --no-install-recommends \
- tree \
- htop \
- dos2unix \
- vim
+RUN DEBIAN_FRONTEND=noninteractive \
+    apt-get install -yq --no-install-recommends \
+    tree \
+    htop \
+    dos2unix \
+    vim
