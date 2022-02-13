@@ -1,9 +1,9 @@
 # -*- coding: utf-8 -*-
 
 project = u'gnome_templates'
-copyright = u'2020, Vladimir Roncevic <elektron.ronca@gmail.com>'
+copyright = u'2018, Vladimir Roncevic <elektron.ronca@gmail.com>'
 author = u'Vladimir Roncevic <elektron.ronca@gmail.com>'
-version = u'1.2.0'
+version = u'1.3.0'
 release = u'https://github.com/vroncevic/gnome_templates/releases'
 extensions = []
 templates_path = ['_templates']
