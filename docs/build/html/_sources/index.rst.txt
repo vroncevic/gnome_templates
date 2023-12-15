@@ -16,7 +16,7 @@ other information that should be provided before the tool is installed.
    :target: https://github.com/vroncevic/gnome_templates/graphs/contributors
 
 .. |Documentation Status| image:: https://readthedocs.org/projects/gnome_templates/badge/?version=latest
-   :target: https://gnome_templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest
+   :target: https://gnome-templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest
 
 .. toctree::
     :hidden:
