@@ -40,10 +40,10 @@ cp -R Templates/ /home/${USER}/Templates
 
 ### Docs
 
-[![Documentation Status](https://readthedocs.org/projects/gnome_templates/badge/?version=latest)](https://gnome_templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest)
+[![Documentation Status](https://readthedocs.org/projects/gnome_templates/badge/?version=latest)](https://gnome-templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest)
 
 More documentation and info at:
-* [https://gnome_templates.readthedocs.io/en/latest/](https://gnome_templates.readthedocs.io/en/latest/)
+* [https://gnome_templates.readthedocs.io/en/latest/](https://gnome-templates.readthedocs.io/en/latest/)
 * [https://www.gnome.org](https://www.gnome.org/)
 
 ### Copyright and licence
