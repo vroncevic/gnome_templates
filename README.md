@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/gnome_templates_logo.png" width="25%">
-
 # Gnome templates
+
+<img align="right" src="https://raw.githubusercontent.com/vroncevic/gnome_templates/dev/docs/gnome_templates_logo.png" width="25%">
 
 **gnome_templates** are files for development processes in **[GNOME](https://www.gnome.org/)**.
 
@@ -27,14 +27,15 @@ other information that should be provided before the tool is installed.
 
 Navigate to release **[page](https://github.com/vroncevic/gnome_templates/releases)** download and extract release archive.
 
-To install **gnome_templates** type the following:
-```
+To install **gnome_templates** type the following
+
+```bash
 cp -R Templates/ /home/${USER}/Templates
 ```
 
 ### Dependencies
 
-**gnome_templates** requires next modules and libraries:
+**gnome_templates** requires next modules and libraries
 
     * None
 
@@ -42,7 +43,7 @@ cp -R Templates/ /home/${USER}/Templates
 
 [![Documentation Status](https://readthedocs.org/projects/gnome_templates/badge/?version=latest)](https://gnome-templates.readthedocs.io/projects/gnome_templates/en/latest/?badge=latest)
 
-More documentation and info at:
+More documentation and info at
 * [https://gnome_templates.readthedocs.io/en/latest/](https://gnome-templates.readthedocs.io/en/latest/)
 * [https://www.gnome.org](https://www.gnome.org/)
 
@@ -50,7 +51,7 @@ More documentation and info at:
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Copyright (C) 2018 by [vroncevic.github.io/gnome_templates](https://vroncevic.github.io/gnome_templates)
+Copyright (C) 2018 - 2024 by [vroncevic.github.io/gnome_templates](https://vroncevic.github.io/gnome_templates)
 
 **gnome_templates** is free software; you can redistribute it and/or modify
 it under the same terms as Bash itself, either Bash version 4.2.47 or,

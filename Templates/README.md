@@ -1,6 +1,6 @@
-<img align="right" src="https://raw.githubusercontent.com/vroncevic/pro_name/dev/docs/pro_name_logo.png" width="25%">
-
 # Pro Name
+
+<img align="right" src="https://raw.githubusercontent.com/vroncevic/pro_name/dev/docs/pro_name_logo.png" width="25%">
 
 **pro_name** is tool with purpose **[Referece Page](https://url)**.
 
@@ -35,12 +35,14 @@ other information that should be provided before the tool is installed.
 Navigate to release **[page](https://github.com/vroncevic/pro_name/releases)** download and extract release archive.
 
 To install **pro_name** type the following
-```
+
+```bash
 Install manual steps
 ```
 
 Self generated setup script and execution
-```
+
+```bash
 Install setup by shell script
 ```
 
@@ -50,7 +52,7 @@ Or You can use docker to create image/container.
 
 ### Usage
 
-```
+```bash
 Add Usage
 ```
 
@@ -64,7 +66,8 @@ Add Usage
 **pro_name** is based on MOP.
 
 Tool structure
-```
+
+```bash
 File system structure
 ```
 
@@ -80,7 +83,7 @@ More documentation and info at
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Copyright (C) 2022 by [vroncevic.github.io/pro_name](https://vroncevic.github.io/pro_name)
+Copyright (C) 2024 by [vroncevic.github.io/pro_name](https://vroncevic.github.io/pro_name)
 
 **pro_name** is free software; you can redistribute it and/or modify
 it under the same terms as Bash itself, either Bash version 4.2.47 or,
